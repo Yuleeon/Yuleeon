@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuliana</h1>
 <h3 align="center">Im a studen, and I like cibersecurity</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
